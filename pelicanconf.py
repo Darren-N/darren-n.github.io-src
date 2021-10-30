@@ -2,6 +2,8 @@ AUTHOR = 'Darren Nisly'
 SITENAME = 'Called To Create'
 SITEURL = ''
 
+THEME = ""
+
 PATH = 'content'
 
 TIMEZONE = 'America/Cancun'
